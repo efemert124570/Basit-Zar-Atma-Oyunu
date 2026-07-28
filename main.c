@@ -52,6 +52,32 @@ sleep(1);
 zardeger3=rand()%6+1;
 printf("Oyuncu 3 Gelen Zar = %d\n",zardeger3);
 break;
+case 4:
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger1=rand()%6+1;
+printf("Oyuncu 1 Gelen Zar = %d\n",zardeger1);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger2=rand()%6+1;
+printf("Oyuncu 2 Gelen Zar = %d\n",zardeger2);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger3=rand()%6+1;
+printf("Oyuncu 3 Gelen Zar = %d\n",zardeger3);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger4=rand()%6+1;
+printf("Oyuncu 4 Gelen Zar = %d\n",zardeger4);
+
+break;
 }
 
 
