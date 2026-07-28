@@ -78,7 +78,80 @@ zardeger4=rand()%6+1;
 printf("Oyuncu 4 Gelen Zar = %d\n",zardeger4);
 
 break;
+case 5:
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger1=rand()%6+1;
+printf("Oyuncu 1 Gelen Zar = %d\n",zardeger1);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger2=rand()%6+1;
+printf("Oyuncu 2 Gelen Zar = %d\n",zardeger2);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger3=rand()%6+1;
+printf("Oyuncu 3 Gelen Zar = %d\n",zardeger3);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger4=rand()%6+1;
+printf("Oyuncu 4 Gelen Zar = %d\n",zardeger4);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger5=rand()%6+1;
+printf("Oyuncu 5 Gelen Zar = %d\n",zardeger5);
+break;
+
+case 6:
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger1=rand()%6+1;
+printf("Oyuncu 1 Gelen Zar = %d\n",zardeger1);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger2=rand()%6+1;
+printf("Oyuncu 2 Gelen Zar = %d\n",zardeger2);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger3=rand()%6+1;
+printf("Oyuncu 3 Gelen Zar = %d\n",zardeger3);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger4=rand()%6+1;
+printf("Oyuncu 4 Gelen Zar = %d\n",zardeger4);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger5=rand()%6+1;
+printf("Oyuncu 5 Gelen Zar = %d\n",zardeger5);
+
+printf("Zar Cevriliyor\n");
+sleep(1);
+ srand(time(NULL));
+zardeger6=rand()%6+1;
+printf("Oyuncu 6 Gelen Zar = %d\n",zardeger6);
+break;
+
+default:printf("Yanlis veya Hatali Sayi Girisi Yaptiniz\n");
+printf("Programdan cikiliyor");
 }
+
 
 
 
