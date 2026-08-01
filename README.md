@@ -6,7 +6,6 @@ Bu proje, 1-6 oyuncu arasında oynanabilen, her oyuncunun rastgele bir zar değe
 
 - 1-6 oyuncu desteği
 - Rastgele zar değeri üretimi (1-6)
-- En yüksek zarı atan oyuncuyu belirleme
 - Geçersiz girişlerde hata mesajı
 - Zar atma animasyonu (1 saniye bekleme)
 
