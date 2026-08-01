@@ -119,18 +119,5 @@ zardeger6=rand()%6+1;
 		printf("Programdan cikiliyor");
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
