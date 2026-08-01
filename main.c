@@ -10,10 +10,15 @@ int main() {
 	scanf("%d",&oyuncusayisi);
 srand(time(NULL));
 zardeger1=rand()%6+1;
+sleep(0.1);
 zardeger2=rand()%6+1;
+sleep(0.1);
 zardeger3=rand()%6+1;
+sleep(0.1);
 zardeger4=rand()%6+1;
+sleep(0.1);
 zardeger5=rand()%6+1;
+sleep(0.1);
 zardeger6=rand()%6+1;
 	switch (oyuncusayisi)
 	{
