@@ -14,7 +14,10 @@ Bu proje, 1-6 oyuncu arasında oynanabilen, her oyuncunun rastgele bir zar değe
 - C Dili
 
 ##  Derleme
-
+- ÖNEMLİ NOT
+- Bu proje Linux sistemde denenilmiştir.
+Linux ve Macos desteklidir.
+Windowsda başka değişiklikler gerekebilir.
 ```bash
 gcc main.c
 ```
