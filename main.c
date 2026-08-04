@@ -2,14 +2,19 @@
 #include <time.h>
 #include <stdlib.h>
 #include <unistd.h>
-int main() {
-//Değişkenlerimiz
-	int oyuncusayisi,zardeger1,zardeger2,zardeger3,zardeger4,zardeger5,zardeger6;
+void bilgilendirme_menu(){
 	//Bilgilendirmeyi yazzdıran kısım
 	printf("Zar Atma Oyununa Hosgeldiniz\n");
 	printf("Bu Oyun 1-6 Arasındaki Kisilerle Oynanabilir\n");
 	printf("Lutfen Kisi Sayisini Giriniz: ");
-//Kişi sayısını alacsak yer
+}
+
+int main() {
+//Değişkenlerimiz
+	int oyuncusayisi,zardeger1,zardeger2,zardeger3,zardeger4,zardeger5,zardeger6;
+	//Yukarıdaki fonksiyonu çağırıp bilgilendirme menüsünü yazdıracak yer
+	bilgilendirme_menu();
+//Kişi sayısını alacak yer
 	scanf("%d",&oyuncusayisi);
 //Zar değerlerinin belirlendiği yer
 	srand(time(NULL));
