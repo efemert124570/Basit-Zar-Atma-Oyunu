@@ -9,6 +9,10 @@ Bu proje, 1-6 oyuncu arasında oynanabilen, her oyuncunun rastgele bir zar değe
 - Geçersiz girişlerde hata mesajı
 - Zar atma animasyonu (1 saniye bekleme)
 
+##  İstek
+- Proje için herhangi bir isteğiniz olursa istek etiketiyle issue açabilirsiniz
+- Eğer istek etiketiyle var ise ve sizde ona katılıyorsanız yorum yapabilirsiniz.
+-  Genel isteklerini buraya yazabilirsiniz şeklinde  aktif issue var ise onun altına yazmanız daha iyi olur
 ##  Kullanılan Yazılım Dili
 
 - C Dili
